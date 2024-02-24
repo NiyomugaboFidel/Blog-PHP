@@ -917,6 +917,7 @@ input,textarea, select{
 
  .dashboard aside h5{
     display: none;
+    color: white;
  }
 
  .dashboard main table thead{
